@@ -5,7 +5,7 @@ def rename_files(prefix):
     # Loop through all items in the current directory
     for filename in os.listdir('.'):
         # Check if the item is a .txt file
-        if filename.endswith('.txt'):
+        if filename.endswith('.txt') and prefix not in filename:
             # Build a new file name by prepending the prefix
             new_name = f"{prefix}_{filename}"
             # Rename the file
