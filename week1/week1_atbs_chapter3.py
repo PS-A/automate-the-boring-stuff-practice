@@ -1,7 +1,7 @@
 # Defining first function, super basic.
 """
 def hello(name):
-    print('Howdy, ' + name + "!")
+    print("Howdy, " + name + "!")
 
 hello("PeePa")
 """
@@ -12,23 +12,23 @@ import random
 
 def getAnswer(answerNumber):
     if answerNumber == 1:
-        return 'It is certain'
+        return "It is certain"
     elif answerNumber == 2:
-        return 'It is decidedly so'
+        return "It is decidedly so"
     elif answerNumber == 3:
-        return 'Yes'
+        return "Yes"
     elif answerNumber == 4:
-        return 'Reply hazy try again'
+        return "Reply hazy try again"
     elif answerNumber == 5:
-        return 'Ask again later'
+        return "Ask again later"
     elif answerNumber == 6:
-        return 'Concentrate and ask again'
+        return "Concentrate and ask again"
     elif answerNumber == 7:
-        return 'My reply is no'
+        return "My reply is no"
     elif answerNumber == 8:
-        return 'Outlook not so good'
+        return "Outlook not so good"
     elif answerNumber == 9:
-        return 'Very doubtful'
+        return "Very doubtful"
 
 r = random.randint(1, 9)
 fortune = getAnswer(r)
@@ -38,51 +38,51 @@ print(fortune)
 # Call stack testing.
 """
 def a():
-    print('a() starts')
+    print("a() starts")
     b()
     d()
-    print('a() returns')
+    print("a() returns")
 
 def b():
-    print('b() starts')
+    print("b() starts")
     c()
-    print('b() returns')
+    print("b() returns")
 
 def c():
-    print('c() starts')
-    print('c() returns')
+    print("c() starts")
+    print("c() returns")
 
 def d():
-    print('d() starts')
-    print('d() returns')
+    print("d() starts")
+    print("d() returns")
 a()
 """
 
 # Local and Global variables testing.
 """
 def spam():
-    eggs = 'spam local'
-    print(eggs)    # prints 'spam local'
+    eggs = "spam local"
+    print(eggs)    # prints "spam local"
 
 def bacon():
-    eggs = 'bacon local'
-    print(eggs)    # prints 'bacon local'
+    eggs = "bacon local"
+    print(eggs)    # prints "bacon local"
     spam()
-    print(eggs)    # prints 'bacon local'
+    print(eggs)    # prints "bacon local"
 
-eggs = 'global'
+eggs = "global"
 bacon()
-print(eggs)        # prints 'global'
+print(eggs)        # prints "global"
 """
 
 # More Local/Global variable testing.
 """
 def spam():
     global eggs
-    eggs = 'spam' # this is the global
+    eggs = "spam" # this is the global
 
 def bacon():
-    eggs = 'bacon' # this is a local
+    eggs = "bacon" # this is a local
 
 def ham():
     print(eggs) # this is the global
@@ -98,7 +98,7 @@ def spam(divideBy):
     try:
         return 42 / divideBy
     except ZeroDivisionError:
-        print('Error: Invalid argument.')
+        print("Error: Invalid argument.")
 
 print(spam(2))
 print(spam(12))
@@ -114,8 +114,8 @@ indentIncreasing = True # Whether the indentation is increasing or not.
 
 try:
     while True: # The main program loop.
-        print(' ' * indent, end='')
-        print('********')
+        print(" " * indent, end="")
+        print("********")
         time.sleep(0.1) # Pause for 1/10 of a second.
 
         if indentIncreasing:
