@@ -2,16 +2,18 @@
 
 # Defining function.
 def seat_map_layout(seat_map):
-    col_widths = [0] * len(seat_map)
-    for i in range(len(seat_map)):
+    col_widths = [0] * len(seat_map[0])
+    available_seats = []
+    for i in range(len(seat_map[0])):
             col_widths[i] += max(len(item) for item in seat_map[i])
-            print(i)
-
-    for r in range(len(seat_map[0])):
+    for r in range(len(seat_map)):
         row = ""
-        for c in range(len(seat_map)):
-            row += seat_map[c][r].rjust(col_widths[c]) + " "
+        for c in range(len(seat_map[0])):
+            row += seat_map[r][c].rjust(col_widths[c]) + " "
+            if "X" not in seat_map[r][c]:
+                available_seats.append(seat_map[r][c])
         print(row)
+    print(available_seats)
 
 # Defining list and calling function.
 seats = [
