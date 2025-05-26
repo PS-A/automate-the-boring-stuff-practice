@@ -22,3 +22,9 @@ fantasy game dictionary (added items from a list to inventory dictionary).
 Chapter 6 is manipulating strings. Learned about different ways of manipulating strings \
 including but not limited to justifying, stripping, joining, slicing etc.
 Also had practice projects for writing Python scripts that are run via CLI.
+
+Week 3
+Working through "Automate the Boring Stuff with Python" chapter 7 and 8.
+
+Chapter 7 - RegEx
+Practicing different forms of RegEx syntaxes.
