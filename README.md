@@ -39,3 +39,14 @@ Bunch of practice projects related to different kind of regular expressions.
 Chapter 8 - Validating Input Data
 Learning how to validate input data with PyInputPlus.
 Couple practice projects related to input data validation and PyInputPlus.
+
+------
+
+Week 4
+Working through "Automate the Boring Stuff with Python" chapter 9 and 10.
+
+Chapter 9 - Reading and Writing Files
+Learning about different ways of file manipulation and path syntaxes etc.
+Couple projects related to shelve-module and file manipulation as well as RegEx pattern file searches.
+
+Chapter 10 - 
