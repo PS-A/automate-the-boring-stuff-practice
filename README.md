@@ -49,4 +49,6 @@ Chapter 9 - Reading and Writing Files
 Learning about different ways of file manipulation and path syntaxes etc.
 Couple projects related to shelve-module and file manipulation as well as RegEx pattern file searches.
 
-Chapter 10 - 
+Chapter 10 - Organizing Files
+Learning about file organization e.g. moving/deleting/renaming files and folders.
+Couple practice projects related to those functionalities.
