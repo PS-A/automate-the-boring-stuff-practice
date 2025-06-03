@@ -51,4 +51,5 @@ Couple projects related to shelve-module and file manipulation as well as RegEx 
 
 Chapter 10 - Organizing Files
 Learning about file organization e.g. moving/deleting/renaming files and folders.
-Couple practice projects related to those functionalities.
+Few practice projects which were about looping files in a given folder path and \
+deleting/renaming/copying them.
