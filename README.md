@@ -53,3 +53,20 @@ Chapter 10 - Organizing Files
 Learning about file organization e.g. moving/deleting/renaming files and folders.
 Few practice projects which were about looping files in a given folder path and \
 deleting/renaming/copying them.
+
+------
+
+Week 5
+Working through "Automate the Boring Stuff with Python" chapter 11 and 12.
+
+Chapter 11 - Debugging
+Learned about debugging in general:
+- how to use debugger
+- how to do assertion sanity checks
+- logging levels
+- raising exceptions
+- assertions for programming bugs, exceptions for user errors
+
+Practice project related to debugging.
+
+Chapter 12 - Web Scraping
