@@ -70,3 +70,7 @@ Learned about debugging in general:
 Practice project related to debugging.
 
 Chapter 12 - Web Scraping
+Learned about requests, bs4 and selenium modules.
+Practices related to downloading web page data with requests.
+Practices focusing on selenium send keys.
+How to read HTML included in the chapter, pretty familiar with that to begin with.
