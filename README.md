@@ -30,7 +30,7 @@ Also had practice projects for writing Python scripts that are run via CLI.
 ------
 
 Week 3
-Working through "Automate the Boring Stuff with Python" chapter 7 and 8.
+Working through "Automate the Boring Stuff with Python" chapters 7 and 8.
 
 Chapter 7 - RegEx
 Practicing different forms of RegEx syntaxes.
@@ -43,7 +43,7 @@ Couple practice projects related to input data validation and PyInputPlus.
 ------
 
 Week 4
-Working through "Automate the Boring Stuff with Python" chapter 9 and 10.
+Working through "Automate the Boring Stuff with Python" chapters 9 and 10.
 
 Chapter 9 - Reading and Writing Files
 Learning about different ways of file manipulation and path syntaxes etc.
@@ -57,7 +57,7 @@ deleting/renaming/copying them.
 ------
 
 Week 5
-Working through "Automate the Boring Stuff with Python" chapter 11 and 12.
+Working through "Automate the Boring Stuff with Python" chapters 11 and 12.
 
 Chapter 11 - Debugging
 Learned about debugging in general:
@@ -74,3 +74,18 @@ Learned about requests, bs4 and selenium modules.
 Practices related to downloading web page data with requests.
 Practices focusing on selenium send keys.
 How to read HTML included in the chapter, pretty familiar with that to begin with.
+
+------
+
+Module 6
+Working through "Automate the Boring Stuff with Python" chapters 13 and 14.
+
+Chapter 13 - Working with Excel spreadsheets
+Different ways of working with Excel spreadsheets.
+Reading data, writing data, handling and modifying data.
+Bunch of practice projects which consisted of:
+- Writing into Excel
+- Inserting rows into Excel
+- Inverting data in Excel
+- Data from .txt files to .xlsx file
+- Data from .xlsx file to .txt files
