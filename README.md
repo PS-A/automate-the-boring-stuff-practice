@@ -89,3 +89,6 @@ Bunch of practice projects which consisted of:
 - Inverting data in Excel
 - Data from .txt files to .xlsx file
 - Data from .xlsx file to .txt files
+
+Chapter 14 - Google sheets
+Decided to skip this chapter as it seems to be built around gspread and Google OAuth 2 API which would require me to set up a Google Cloud project, link a google account and authenticate to it. And no idea if I'll ever be using google sheets so... if there ever is a need to build something with google sheets, will pick up the skill then.
