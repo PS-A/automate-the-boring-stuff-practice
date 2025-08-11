@@ -1,6 +1,6 @@
 # Python -> Robocorp Bootcamp
 
-This is my personal 12-week learning journey from Python basics to Robocorp automation.
+This is my personal learning journey from Python basics to Robocorp automation.
 
 ------
 
@@ -92,3 +92,10 @@ Bunch of practice projects which consisted of:
 
 Chapter 14 - Google sheets
 Decided to skip this chapter as it seems to be built around gspread and Google OAuth 2 API which would require me to set up a Google Cloud project, link a google account and authenticate to it. And no idea if I'll ever be using google sheets so... if there ever is a need to build something with google sheets, will pick up the skill then.
+
+------
+
+Module 7
+Working through "Automate the Boring Stuff with Python" chapters 15 and 16 which cover specialized file formats.
+
+Chapter 15 - Working with PDF and Word documents
