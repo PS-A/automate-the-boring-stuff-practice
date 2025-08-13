@@ -99,3 +99,6 @@ Module 7
 Working through "Automate the Boring Stuff with Python" chapters 15 and 16 which cover specialized file formats.
 
 Chapter 15 - Working with PDF and Word documents
+Learning how to read and write PDF as well as Word documents. Also going over PDF encryption/decryption.
+Practice projects related to PDF including PDF decryption and encryption. Included walking through folder hierarchy.
+Practice projects related to .txt and .word documents which included inputting .txt file text into .docx.
