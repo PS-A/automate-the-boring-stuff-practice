@@ -5,17 +5,17 @@ This is my personal learning journey from Python basics to Robocorp automation.
 ------
 
 Week 1
-Included a lot of flailing around and just getting back to basics with syntaxes etc.
-Set up environments (visual studio code, github).
+Included a lot of flailing around and just getting back to basics with syntaxes etc.\
+Set up environments (visual studio code, github).\
 Completed some practices and "Automate the Boring Stuff with Python" chapters 1-3, included while/for looping, \
-if/else conditions, local/global variables and other basic stuff.
+if/else conditions, local/global variables and other basic stuff.\
 
 ------
 
 Week 2
 Started practicing source control to use branching in the same way proper organizations do \
 as in creating feature branches which I would then push to GitHub and request a pull request \
-compare code and merge. Continued with "Automate the Boring Stuff with Python" going over chapters 4-6.
+compare code and merge. Continued with "Automate the Boring Stuff with Python" going over chapters 4-6.\
 
 Chapter 4 included lists (joining, slicing), nested logic, loops, axes and arrays.
 
@@ -24,7 +24,7 @@ creating a chess board validator (checks if given input dictionary chess board i
 fantasy game dictionary (added items from a list to inventory dictionary).
 
 Chapter 6 is manipulating strings. Learned about different ways of manipulating strings \
-including but not limited to justifying, stripping, joining, slicing etc.
+including but not limited to justifying, stripping, joining, slicing etc.\
 Also had practice projects for writing Python scripts that are run via CLI.
 
 ------
@@ -32,34 +32,34 @@ Also had practice projects for writing Python scripts that are run via CLI.
 Week 3
 Working through "Automate the Boring Stuff with Python" chapters 7 and 8.
 
-Chapter 7 - RegEx
-Practicing different forms of RegEx syntaxes.
-Bunch of practice projects related to different kind of regular expressions.
+Chapter 7 - RegEx\
+Practicing different forms of RegEx syntaxes.\
+Bunch of practice projects related to different kind of regular expressions.\
 
-Chapter 8 - Validating Input Data
-Learning how to validate input data with PyInputPlus.
-Couple practice projects related to input data validation and PyInputPlus.
+Chapter 8 - Validating Input Data\
+Learning how to validate input data with PyInputPlus.\
+Couple practice projects related to input data validation and PyInputPlus.\
 
 ------
 
 Week 4
 Working through "Automate the Boring Stuff with Python" chapters 9 and 10.
 
-Chapter 9 - Reading and Writing Files
-Learning about different ways of file manipulation and path syntaxes etc.
-Couple projects related to shelve-module and file manipulation as well as RegEx pattern file searches.
+Chapter 9 - Reading and Writing Files\
+Learning about different ways of file manipulation and path syntaxes etc.\
+Couple projects related to shelve-module and file manipulation as well as RegEx pattern file searches.\
 
-Chapter 10 - Organizing Files
-Learning about file organization e.g. moving/deleting/renaming files and folders.
+Chapter 10 - Organizing Files\
+Learning about file organization e.g. moving/deleting/renaming files and folders.\
 Few practice projects which were about looping files in a given folder path and \
 deleting/renaming/copying them.
 
 ------
 
-Week 5
-Working through "Automate the Boring Stuff with Python" chapters 11 and 12.
+Week 5\
+Working through "Automate the Boring Stuff with Python" chapters 11 and 12.\
 
-Chapter 11 - Debugging
+Chapter 11 - Debugging\
 Learned about debugging in general:
 - how to use debugger
 - how to do assertion sanity checks
@@ -69,20 +69,20 @@ Learned about debugging in general:
 
 Practice project related to debugging.
 
-Chapter 12 - Web Scraping
-Learned about requests, bs4 and selenium modules.
-Practices related to downloading web page data with requests.
-Practices focusing on selenium send keys.
-How to read HTML included in the chapter, pretty familiar with that to begin with.
+Chapter 12 - Web Scraping\
+Learned about requests, bs4 and selenium modules.\
+Practices related to downloading web page data with requests.\
+Practices focusing on selenium send keys.\
+How to read HTML included in the chapter, pretty familiar with that to begin with.\
 
 ------
 
-Module 6
+Module 6\
 Working through "Automate the Boring Stuff with Python" chapters 13 and 14.
 
-Chapter 13 - Working with Excel spreadsheets
-Different ways of working with Excel spreadsheets.
-Reading data, writing data, handling and modifying data.
+Chapter 13 - Working with Excel spreadsheets\
+Different ways of working with Excel spreadsheets.\
+Reading data, writing data, handling and modifying data.\
 Bunch of practice projects which consisted of:
 - Writing into Excel
 - Inserting rows into Excel
@@ -90,7 +90,7 @@ Bunch of practice projects which consisted of:
 - Data from .txt files to .xlsx file
 - Data from .xlsx file to .txt files
 
-Chapter 14 - Google sheets
+Chapter 14 - Google sheets\
 Decided to skip this chapter as it seems to be built around gspread and Google OAuth 2 API which would require me to set up a Google Cloud project, link a google account and authenticate to it. And no idea if I'll ever be using google sheets so... if there ever is a need to build something with google sheets, will pick up the skill then.
 
 ------
@@ -98,7 +98,9 @@ Decided to skip this chapter as it seems to be built around gspread and Google O
 Module 7
 Working through "Automate the Boring Stuff with Python" chapters 15 and 16 which cover specialized file formats.
 
-Chapter 15 - Working with PDF and Word documents
-Learning how to read and write PDF as well as Word documents. Also going over PDF encryption/decryption.
-Practice projects related to PDF including PDF decryption and encryption. Included walking through folder hierarchy.
+Chapter 15 - Working with PDF and Word documents\
+Learning how to read and write PDF as well as Word documents. Also going over PDF encryption/decryption.\
+Practice projects related to PDF including PDF decryption and encryption. Included walking through folder hierarchy.\
 Practice projects related to .txt and .word documents which included inputting .txt file text into .docx.
+
+Chapter 16
