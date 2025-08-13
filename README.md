@@ -102,3 +102,5 @@ Chapter 15 - Working with PDF and Word documents\
 Learning how to read and write PDF as well as Word documents. Also going over PDF encryption/decryption.\
 Practice projects related to PDF including PDF decryption and encryption. Included walking through folder hierarchy.\
 Practice projects related to .txt and .word documents which included inputting .txt file text into .docx.
+
+Chapter 16
