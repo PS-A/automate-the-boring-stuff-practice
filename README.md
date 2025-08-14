@@ -95,12 +95,14 @@ Decided to skip this chapter as it seems to be built around gspread and Google O
 
 ------
 
-Module 7
-Working through "Automate the Boring Stuff with Python" chapters 15 and 16 which cover specialized file formats.
-
 Chapter 15 - Working with PDF and Word documents\
 Learning how to read and write PDF as well as Word documents. Also going over PDF encryption/decryption.\
 Practice projects related to PDF including PDF decryption and encryption. Included walking through folder hierarchy.\
 Practice projects related to .txt and .word documents which included inputting .txt file text into .docx.
 
-Chapter 16
+------
+
+Chapter 16 - Working with CSV files and JSON data.\
+Learning about .csv format and practicing removing headers from .csv files.\
+Created a OpenWeather account and tested API connection to request weather forecasts.\
+Excel-to-CSV Converter practice project.
