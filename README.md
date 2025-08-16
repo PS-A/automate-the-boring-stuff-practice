@@ -8,14 +8,14 @@ Week 1
 Included a lot of flailing around and just getting back to basics with syntaxes etc.\
 Set up environments (visual studio code, github).\
 Completed some practices and "Automate the Boring Stuff with Python" chapters 1-3, included while/for looping, \
-if/else conditions, local/global variables and other basic stuff.\
+if/else conditions, local/global variables and other basic stuff.
 
 ------
 
 Week 2
 Started practicing source control to use branching in the same way proper organizations do \
 as in creating feature branches which I would then push to GitHub and request a pull request \
-compare code and merge. Continued with "Automate the Boring Stuff with Python" going over chapters 4-6.\
+compare code and merge. Continued with "Automate the Boring Stuff with Python" going over chapters 4-6.
 
 Chapter 4 included lists (joining, slicing), nested logic, loops, axes and arrays.
 
@@ -34,11 +34,11 @@ Working through "Automate the Boring Stuff with Python" chapters 7 and 8.
 
 Chapter 7 - RegEx\
 Practicing different forms of RegEx syntaxes.\
-Bunch of practice projects related to different kind of regular expressions.\
+Bunch of practice projects related to different kind of regular expressions.
 
 Chapter 8 - Validating Input Data\
 Learning how to validate input data with PyInputPlus.\
-Couple practice projects related to input data validation and PyInputPlus.\
+Couple practice projects related to input data validation and PyInputPlus.
 
 ------
 
@@ -47,7 +47,7 @@ Working through "Automate the Boring Stuff with Python" chapters 9 and 10.
 
 Chapter 9 - Reading and Writing Files\
 Learning about different ways of file manipulation and path syntaxes etc.\
-Couple projects related to shelve-module and file manipulation as well as RegEx pattern file searches.\
+Couple projects related to shelve-module and file manipulation as well as RegEx pattern file searches.
 
 Chapter 10 - Organizing Files\
 Learning about file organization e.g. moving/deleting/renaming files and folders.\
@@ -57,7 +57,7 @@ deleting/renaming/copying them.
 ------
 
 Week 5\
-Working through "Automate the Boring Stuff with Python" chapters 11 and 12.\
+Working through "Automate the Boring Stuff with Python" chapters 11 and 12.
 
 Chapter 11 - Debugging\
 Learned about debugging in general:
@@ -73,7 +73,7 @@ Chapter 12 - Web Scraping\
 Learned about requests, bs4 and selenium modules.\
 Practices related to downloading web page data with requests.\
 Practices focusing on selenium send keys.\
-How to read HTML included in the chapter, pretty familiar with that to begin with.\
+How to read HTML included in the chapter, pretty familiar with that to begin with.
 
 ------
 
@@ -111,9 +111,15 @@ Excel-to-CSV Converter practice project.
 
 Chapter 17 - Keeping time, scheduling tasks, and launching programs\
 Practiced sleep and timing program launches.\
-Practice project about extending stopwatch functionality, just to prettify output and copy result to clipboard.\
+Practice project about extending stopwatch functionality, just to prettify output and copy result to clipboard.
 
 ------
 
 Chapter 18 - Sending Email And Text Messages\
-Skipped this chapter due to requiring Gmail account (needs phone verification) and using US-centric SMS.\
+Skipped this chapter due to requiring Gmail account (needs phone verification) and using US-centric SMS.
+
+------
+
+Chapter 19 - Manipulating Images\
+Learned about Pillow (PIL) module and how to manipulate images.\
+Practice projects regarding this as well.

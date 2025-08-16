@@ -1,0 +1,1 @@
+# Identifying Photo Folders on the Hard Drive
