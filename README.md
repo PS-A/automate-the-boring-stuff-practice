@@ -122,4 +122,6 @@ Skipped this chapter due to requiring Gmail account (needs phone verification) a
 
 Chapter 19 - Manipulating Images\
 Learned about Pillow (PIL) module and how to manipulate images.\
-Practice projects regarding this as well.
+Practice projects regarding this as well.\
+Walking through OS to spot mainly photo folders, attaching watermark to images, \
+and creating bespoke seating cards for guests to a party.
