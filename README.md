@@ -102,13 +102,18 @@ Practice projects related to .txt and .word documents which included inputting .
 
 ------
 
-Chapter 16 - Working with CSV files and JSON data.\
+Chapter 16 - Working with CSV files and JSON data\
 Learning about .csv format and practicing removing headers from .csv files.\
 Created a OpenWeather account and tested API connection to request weather forecasts.\
 Excel-to-CSV Converter practice project.
 
 ------
 
-Chapter 17 - Keeping time, scheduling tasks, and launching programs.\
+Chapter 17 - Keeping time, scheduling tasks, and launching programs\
 Practiced sleep and timing program launches.\
 Practice project about extending stopwatch functionality, just to prettify output and copy result to clipboard.\
+
+------
+
+Chapter 18 - Sending Email And Text Messages\
+Skipped this chapter due to requiring Gmail account (needs phone verification) and using US-centric SMS.\
