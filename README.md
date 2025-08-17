@@ -129,4 +129,5 @@ and creating bespoke seating cards for guests to a party.
 ------
 
 Chapter 20 - Controlling the keyboard and mouse with GUI automation\
-Chapter about GUI automation, the bread and butter of RPA. Explaining mouse inputs, image recognition, keyboard inputs etc.\
+Chapter about GUI automation. Explaining mouse inputs, image recognition, keyboard inputs etc.\
+Couple practice projects related to mouse clicking and keyboard inputs.
