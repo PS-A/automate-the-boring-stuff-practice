@@ -125,3 +125,8 @@ Learned about Pillow (PIL) module and how to manipulate images.\
 Practice projects regarding this as well.\
 Walking through OS to spot mainly photo folders, attaching watermark to images, \
 and creating bespoke seating cards for guests to a party.
+
+------
+
+Chapter 20 - Controlling the keyboard and mouse with GUI automation\
+Chapter about GUI automation, the bread and butter of RPA. Explaining mouse inputs, image recognition, keyboard inputs etc.\
