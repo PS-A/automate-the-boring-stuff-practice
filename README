@@ -1,3 +1,22 @@
+# Quickstart
+
+# Windows
+py -m venv .venv
+.\.venv\Scripts\activate
+pip install -r requirements.txt
+# macOS/Linux
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+
+------
+
+# Highlights
+Covers practical automation tasks: Excel data updates, PDF + CSV parsing, web scraping with `requests`/`BeautifulSoup`, and browser automation with `Selenium`.  
+Demonstrates use of common Python libraries for everyday productivity scripts.
+
+------
+
 # Python Basics – Automate the Boring Stuff
 
 This repo is my working-through of *Automate the Boring Stuff with Python* (2nd ed).  
@@ -139,12 +158,16 @@ Couple practice projects related to mouse clicking and keyboard inputs.
 
 ------
 
-Disclaimers:
+# Disclaimers
 Code is based on Automate the Boring Stuff (which uses some non-PEP8 naming).
 
 Many scripts use relative paths (e.g. open("file.txt")) assuming you run them from the same folder as the script. If you run from repo root, you may need to cd into the correct chapter folder first.
 
-## License
+Some scripts need Windows-only libs.
+
+------
+
+# License
 This project is licensed under the [MIT License](./LICENSE).  
 MIT was chosen because it’s simple, permissive, and widely adopted in open-source.  
 It allows anyone to use, modify, and share the code freely, while keeping attribution and liability disclaimers clear.
