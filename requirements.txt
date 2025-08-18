@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+selenium
+pillow
+pyautogui
+pyperclip
+python-docx
+pyinputplus
+openpyxl
+PyPDF2
+python-dotenv
+pywin32

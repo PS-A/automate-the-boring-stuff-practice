@@ -1,21 +1,21 @@
 # Python -> Robocorp Bootcamp
 
-This is my personal learning journey from Python basics to Robocorp automation.
+Working through "Automate the Boring Stuff with Python" by Al Sweigart
 
 ------
 
-Week 1
-Included a lot of flailing around and just getting back to basics with syntaxes etc.\
+Chapters 1 to 3
+Getting back to basics with syntaxes etc.\
 Set up environments (visual studio code, github).\
-Completed some practices and "Automate the Boring Stuff with Python" chapters 1-3, included while/for looping, \
+Completed some practices in chapters 1-3, included while/for looping, \
 if/else conditions, local/global variables and other basic stuff.
 
 ------
 
-Week 2
+Chapters 4 to 6
 Started practicing source control to use branching in the same way proper organizations do \
 as in creating feature branches which I would then push to GitHub and request a pull request \
-compare code and merge. Continued with "Automate the Boring Stuff with Python" going over chapters 4-6.
+compare code and merge. Continued book material going over chapters 4-6.
 
 Chapter 4 included lists (joining, slicing), nested logic, loops, axes and arrays.
 
@@ -29,8 +29,7 @@ Also had practice projects for writing Python scripts that are run via CLI.
 
 ------
 
-Week 3
-Working through "Automate the Boring Stuff with Python" chapters 7 and 8.
+Chapters 7 to 8
 
 Chapter 7 - RegEx\
 Practicing different forms of RegEx syntaxes.\
@@ -42,8 +41,7 @@ Couple practice projects related to input data validation and PyInputPlus.
 
 ------
 
-Week 4
-Working through "Automate the Boring Stuff with Python" chapters 9 and 10.
+Chapters 9 to 10
 
 Chapter 9 - Reading and Writing Files\
 Learning about different ways of file manipulation and path syntaxes etc.\
@@ -56,8 +54,7 @@ deleting/renaming/copying them.
 
 ------
 
-Week 5\
-Working through "Automate the Boring Stuff with Python" chapters 11 and 12.
+Chapters 11 to 12
 
 Chapter 11 - Debugging\
 Learned about debugging in general:
@@ -65,8 +62,7 @@ Learned about debugging in general:
 - how to do assertion sanity checks
 - logging levels
 - raising exceptions
-- assertions for programming bugs, exceptions for user errors
-
+- assertions for programming bugs, exceptions for user errors\
 Practice project related to debugging.
 
 Chapter 12 - Web Scraping\
@@ -77,8 +73,7 @@ How to read HTML included in the chapter, pretty familiar with that to begin wit
 
 ------
 
-Module 6\
-Working through "Automate the Boring Stuff with Python" chapters 13 and 14.
+Chapters 13 to 14
 
 Chapter 13 - Working with Excel spreadsheets\
 Different ways of working with Excel spreadsheets.\
@@ -131,3 +126,7 @@ and creating bespoke seating cards for guests to a party.
 Chapter 20 - Controlling the keyboard and mouse with GUI automation\
 Chapter about GUI automation. Explaining mouse inputs, image recognition, keyboard inputs etc.\
 Couple practice projects related to mouse clicking and keyboard inputs.
+
+------
+
+*Code is based on Automate the Boring Stuff (which uses some non-PEP8 naming).

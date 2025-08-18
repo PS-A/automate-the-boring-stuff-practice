@@ -1,5 +1,15 @@
+.env
+.venv/
 __pycache__/
 *.pyc
 .vscode/
-.env
-.venv/
+.DS_Store
+*.xlsx
+withLogo/
+cards/
+Copy of folder*/
+updated_*.xlsx
+*_encrypted.pdf
+*_decrypted.pdf
+*.csv
+WebTextFile.txt
