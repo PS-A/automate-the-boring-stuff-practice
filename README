@@ -1,6 +1,16 @@
-# Python -> Robocorp Bootcamp
+# Python Basics – Automate the Boring Stuff
 
-Working through "Automate the Boring Stuff with Python" by Al Sweigart
+This repo is my working-through of *Automate the Boring Stuff with Python* (2nd ed).  
+It’s not a polished library — it’s me learning, experimenting, and sometimes breaking things on purpose to see what happens.  
+
+You’ll find:  
+- Practice scripts from each chapter (text, Excel, PDFs, web scraping, GUIs, etc.)  
+- Some small tweaks and experiments beyond the book  
+- A requirements file so the examples actually run without headaches  
+
+Why publish it?  
+Because it shows hands-on Python practice beyond just theory, and it doubles as a sandbox for automation tricks.  
+If you’re a recruiter: this isn’t my “production code,” but it shows the baseline I’ve been sharpening before stepping into bigger automation projects.
 
 ------
 
@@ -129,4 +139,11 @@ Couple practice projects related to mouse clicking and keyboard inputs.
 
 ------
 
+
 *Code is based on Automate the Boring Stuff (which uses some non-PEP8 naming).
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).  
+MIT was chosen because it’s simple, permissive, and widely adopted in open-source.  
+It allows anyone to use, modify, and share the code freely, while keeping attribution and liability disclaimers clear.
