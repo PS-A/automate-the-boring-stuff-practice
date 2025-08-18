@@ -10,9 +10,9 @@ except ValueError:
     print("Please enter a valid number.")
     exit()
 
-# Step 3: Create that many .txt files in the week1/ folder
+# Step 3: Create that many .txt files in the output/ folder
 for i in range(1, num_files + 1):
-    filename = "file" + str(i) + ".txt"
+    filename = ("file" + str(i) + ".txt")
     with open(filename, "w") as f:
         f.write("This is a test file.\n")
 
