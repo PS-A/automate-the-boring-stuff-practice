@@ -18,7 +18,6 @@ Demonstrates use of common Python libraries for everyday productivity scripts.
 ------
 
 # Python Basics – Automate the Boring Stuff
-
 This repo is my working-through of *Automate the Boring Stuff with Python* (2nd ed).  
 It’s not a polished library — it’s me learning, experimenting, and sometimes breaking things on purpose to see what happens.  
 
