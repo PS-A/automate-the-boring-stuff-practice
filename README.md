@@ -1,3 +1,18 @@
+# Quickstart
+Clone the repo and set up a virtual environment:
+
+## Windows
+py -m venv .venv
+.\.venv\Scripts\activate
+pip install -r requirements.txt
+
+## MacOS/Linux
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+
+---
+
 # Highlights
 Covers practical automation tasks: Excel data updates, PDF + CSV parsing, web scraping with requests/BeautifulSoup, and browser automation with Selenium.  
 Demonstrates use of common Python libraries for everyday productivity scripts.
