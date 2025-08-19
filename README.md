@@ -4,8 +4,6 @@
 Covers practical automation tasks: Excel data updates, PDF + CSV parsing, web scraping with requests/BeautifulSoup, and browser automation with Selenium.  
 Demonstrates use of common Python libraries for everyday productivity scripts.
 
----
-
 ## About
 This repo is my working-through of Automate the Boring Stuff with Python (2nd ed).  
 It's not a polished library. It's me learning, experimenting, and sometimes breaking things on purpose to see what happens.
@@ -19,8 +17,6 @@ Why publish it?
 Because it shows hands-on Python practice beyond just theory, and it doubles as a sandbox for automation tricks.  
 If you're a recruiter: this isn't my "production code", but it shows the baseline I've been sharpening before stepping into bigger automation projects with Python.
 
----
-
 ## Quickstart
 Clone the repo and set up a virtual environment:
 
@@ -33,8 +29,6 @@ pip install -r requirements.txt
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-
----
 
 ## Chapters 1 to 3
 Getting back to basics with syntaxes etc.  
