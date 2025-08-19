@@ -141,6 +141,6 @@ Many scripts use relative paths (e.g. open("file.txt")) assuming you run them fr
 Some scripts need Windows-only libs.
 
 ## License
-This project is licensed under the [MIT License](./LICENSE). 
+This project is licensed under the [MIT License](./LICENSE).  
 MIT was chosen because it's simple, permissive, and widely adopted in open-source.  
 It allows anyone to use, modify, and share the code freely, while keeping attribution and liability disclaimers clear.
